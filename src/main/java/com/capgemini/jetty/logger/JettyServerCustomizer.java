@@ -15,6 +15,8 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * Class for customizing jetty container and getting access logs based on existing logback-access.xml
+ * 
+ * Based on inspiration from Joakim Erdfelt: https://gist.github.com/joakime/27c42782c9a2712a1010
  *
  * @author Amit Salvi
  * @author Az Madujibeya
